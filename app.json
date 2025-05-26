@@ -1,9 +1,9 @@
 {
   "name":"RAHMANI_MD CREAED BY RAHMANI",
-  "description":"Best WhatsApp Bot Developed By Danny Contact Us 255697608274,255693629079 Thank you for choose RAHMANI_MD",
+  "description":"Best WhatsApp Bot Developed By rahmani Contact 255693629079 Thank you for choose RAHMANI_MD",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/aktbgo.jpg",
-  "repository":"https://github.com/Qartde/Rahmani-Md",
+  "repository":"https://github.com/Qartde/RAHMANI_MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -81,7 +81,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255697608274"
+    "value": "255693629079"
 	  
   },
     "WARN_COUNT":
