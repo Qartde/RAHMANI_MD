@@ -9,9 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN  git clone https://github.com/Luffy2ndAccount/Zokou-english-v  /root/Zokou_BOt
-WORKDIR /root/Zokou_Bot/
-
+RUN git clone https://github.com/SIMON32883/MR-ANYWAY-MD  /root/ToshTech
+WORKDIR /root/toshtech/
 
 
 COPY package.json .
@@ -22,4 +21,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "index.js"]
+CMD ["npm", "run" , "ibrahim.js"]
