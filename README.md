@@ -19,11 +19,11 @@
   <p align="center">
 <a href="https://github.com/Qartde?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Qartde?label=Followers&style=social"></a>
 <a href="https://github.com/Qartde/Rahmani-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Qartde/Rahmani-Md?&style=social"></a>
-<a href="https://github.com/Qartde/Rahmani-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Qartde/Rahmani-Md?style=social"></a>
-<a href="https://github.com/Qartde/Rahmani-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Qartde/Rahmani-Md?label=Watching&style=social"></a>
+<a href="https://github.com/Qartde/RAHMANI_MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Qartde/RAHMANI_MD?style=social"></a>
+<a href="https://github.com/Qartde/RAHMANI_MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Qartde/RAHMANI_MD?label=Watching&style=social"></a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Qartde}/count.svg" alt="Rahmani-Md :: Visitor's Count"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Qartde}/count.svg" alt="RAHMANI_MD :: Visitor's Count"/></p>
 
 </a>
   <div align="center">
@@ -38,7 +38,7 @@
 Fork the Repo
 
 
-<a href='https://github.com/Qartde/Rahmani-Md/fork' target="_blank"><img alt='𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=grey'/></a>
+<a href='https://github.com/Qartde/RAHMANI_MD/fork' target="_blank"><img alt='𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=grey'/></a>
 
 star me 🌟  ®️
 
@@ -46,7 +46,7 @@ star me 🌟  ®️
 
 ## 2.Get your session ID here
  
-<a href='https://samsung-5ggy.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=pink'/></a>
+<a href='https://rahmani-4.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=pink'/></a>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
